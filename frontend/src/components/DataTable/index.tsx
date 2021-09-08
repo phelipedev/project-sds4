@@ -15,81 +15,75 @@ const DataTable = () => {
                 <tbody>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Allan Iverson</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Bruce Wayne</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Anthony Stark</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
+                        <td>Barry Allen</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
-                    <tr>
-                        <td>22/04/2021</td>
-                        <td>Michael Jordan</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
-                    </tr>
+
                 </tbody>
             </table>
         </div>
